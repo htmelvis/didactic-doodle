@@ -1,0 +1,9 @@
+:root{
+  --red: #ff0000;
+  --large: 10px;
+}
+p{
+  color: #1b1b1b;
+  padding: 1em;
+  font-size: 2em;
+}
